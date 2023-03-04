@@ -1,2 +1,2 @@
-# Arduino-Calculator :calculator
-Basic Arduino Calculator 
+# Arduino-Calculator 
+## Basic Arduino Calculator 
